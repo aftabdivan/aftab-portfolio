@@ -116,11 +116,11 @@ const experiences = [
     date: "Nov 2022 - May 2023",
   },
   {
-    title: "Full Stack Developer (MERN)",
-    company_name: "Cresnpire",
+    title: "Software Engineer (React JS)",
+    company_name: "Peerbits",
     icon: dcc,
     iconBg: "#333333",
-    date: "May 2023 - Present",
+    date: "May 2024 - January 2025",
   },
 ];
 

@@ -9,7 +9,7 @@ import { experiences } from "../constants";
 import { SectionWrapper } from "../hoc";
 import { download, downloadHover, resume } from "../assets";
 import { textVariant } from "../utils/motion";
-import Resume from "../assets/Resume/Aftab-Divan-Resume.pdf";
+import Resume from "../assets/Resume/Aftab-Divan.pdf";
 
 const ExperienceCard = ({ experience }) => (
   <VerticalTimelineElement
